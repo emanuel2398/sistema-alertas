@@ -14,4 +14,4 @@ Gestión de Alertas: Permite enviar alertas a usuarios suscritos a temas, gestio
 
 Pruebas Unitarias: Incluye una suite de pruebas unitarias que cubren los casos de uso más relevantes, garantizando la robustez y el correcto funcionamiento del código.
 
-Estructura: Organizado en una estructura de carpetas clara, con modelos en la carpeta src y pruebas en la carpeta tests.
+Estructura: Organizado en una estructura de carpetas, con modelos en la carpeta src y pruebas en la carpeta tests.
