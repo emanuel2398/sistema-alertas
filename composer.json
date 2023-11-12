@@ -1,0 +1,14 @@
+{
+    "name": "tudominio/sistema-alertas",
+    "description": "Sistema de Alertas",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "SistemaAlertas\\": "src/",
+            "Tests\\": "tests/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    }
+}
