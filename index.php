@@ -62,7 +62,6 @@ require_once 'src/AlertManager.php';
             return $alert->getAlertType() . ': ' . $alert->getExpirationDateTime()->format('Y-m-d H:i:s') . ' '. $alert->getText();
         }, $unreadAlertsForUser)) . PHP_EOL;
 
-        // Marcar alertas como leídas
         
         // Obtener alertas leídas
         $readAlerts = $user->getReadAlerts();
